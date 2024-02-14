@@ -1,0 +1,10 @@
+/* Initial state: hide the menu */
+.hidden1 {
+    display: none;
+  }
+  
+  /* Show the menu when it has the 'visible' class */
+  .visible1{
+    display: block;
+  }
+  
